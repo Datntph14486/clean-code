@@ -1,3 +1,5 @@
+# 💡 Bạn của 6 tháng sau sẽ cảm ơn bạn nếu bạn áp dụng Clean Code!
+
 # 1️. Đặt tên biến, hàm, class rõ ràng, có ý nghĩa
 
     ❌ Bad:
