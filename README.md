@@ -146,3 +146,6 @@
 
     		console.log("Đơn hàng đang xử lý.");
     	};
+# 7. Giữ cấu trúc code nhất quán (Consistent Structure)
+    - Thống nhất cách đặt tên, format, vị trí các hàm để dễ đọc.
+    - Tuân theo một coding style duy nhất trong dự án.
